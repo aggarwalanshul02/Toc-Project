@@ -1,0 +1,19 @@
+{
+    "name": "finite-automata",
+    "version": "1.0.0",
+    "main": "index.js",
+    
+    "devDependencies": {
+        "prettier": "^2.0.5"
+    },
+    "prettier": {
+        "trailingComma": "es5",
+        "tabWidth": 4,
+        "semi": true,
+        "singleQuote": true,
+        "useTabs": false,
+        "bracketSpacing": true,
+        "arrowParens": "avoid",
+        "printWidth": 160
+    }
+}
